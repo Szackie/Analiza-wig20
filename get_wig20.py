@@ -1,4 +1,4 @@
-#get_wig20.py
+# get_wig20.py
 import pandas as pd
 import os
 
