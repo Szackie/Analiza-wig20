@@ -1,4 +1,4 @@
-#Analiza i prognozowanie cen akcji na giełdzie WIG20
+# Analiza i prognozowanie cen akcji na giełdzie WIG20
 
 Celem tego projektu jest analiza i prognozowanie cen akcji spółek notowanych na indeksie WIG20 na Giełdzie Papierów Wartościowych w Warszawie. WIG20 to indeks 20 największych i najbardziej płynnych spółek na GPW. Analiza tych spółek może dostarczyć cennych informacji o ogólnych trendach na polskim rynku giełdowym.
 
