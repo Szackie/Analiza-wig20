@@ -1,19 +1,9 @@
-<h1 align="center">Mercury Software</h1>
-<p align="center">
-<a href="https://github.com/Szackie/Analiza-wig20/releases/download/Release/Mercury.Soft.rar"><img src="https://i.imgur.com/6hedkee.png" alt=Download" /></a>
-</p>
+# Analiza i prognozowanie cen akcji na giełdzie WIG20
 
-![maxresdefault](https://github.com/Szackie/Analiza-wig20/assets/104226817/458f51bb-0168-48ed-a096-ef868289a0ad)
+Celem tego projektu jest analiza i prognozowanie cen akcji spółek notowanych na indeksie WIG20 na Giełdzie Papierów Wartościowych w Warszawie. WIG20 to indeks 20 największych i najbardziej płynnych spółek na GPW. Analiza tych spółek może dostarczyć cennych informacji o ogólnych trendach na polskim rynku giełdowym.
 
+W tym projekcie skupię się na analizie historycznych danych cenowych tych spółek, które pobieram ze strony stooq.pl. Dane te obejmują codzienne ceny otwarcia, zamknięcia, najwyższe, najniższe oraz wolumen obrotu.
 
-## Instruction
-- Open archive
-- Unzip the archive to your desktop
-- Run the exe file
-- Start the game and press END
+Moim celem jest zrozumienie trendów i wzorców w tych danych, a następnie zastosowanie tych informacji do prognozowania przyszłych cen akcji. W tym celu będę korzystać z różnych technik analizy danych i modelowania predykcyjnego.
 
-
-
-
-
-
+Mam nadzieję, że ten projekt dostarczy cennych informacji, które mogą pomóc inwestorom w podejmowaniu decyzji inwestycyjnych.
