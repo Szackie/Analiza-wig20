@@ -6,4 +6,4 @@ W tym projekcie skupię się na analizie historycznych danych cenowych tych spó
 
 Moim celem jest zrozumienie trendów i wzorców w tych danych, a następnie zastosowanie tych informacji do prognozowania przyszłych cen akcji. W tym celu będę korzystać z różnych technik analizy danych i modelowania predykcyjnego.
 
-Mam nadzieję, że ten projekt dostarczy cennych informacji, które mogą pomóc inwestorom w podejmowaniu decyzji inwestycyjnych.
+Oczywiście zdaję sobie sprawę z faktu, że na ceny akcji ma wpływ wiele czynników i nie powinno się opierać jedynie na danych historycznych, dlatego też poniższy projekt traktuję czysto hobbistycznie 
